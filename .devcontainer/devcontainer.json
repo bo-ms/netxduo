@@ -1,5 +1,5 @@
 {
-    "image": "ghcr.io/tiejunms/azure_rtos_docker",
+    "image": "docker pull ghcr.io/bo-ms/testing-docker",
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
